@@ -1,7 +1,7 @@
 {
   "/_app": "pages/_app.js",
-  "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
   "/reset-password": "pages/reset-password.html",
   "/sign-in": "pages/sign-in.html",
   "/sign-up": "pages/sign-up.html",
